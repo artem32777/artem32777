@@ -75,3 +75,38 @@ Passionate about exploring the TON ecosystem, blockchain technology, mini apps, 
     </tr>
   </tbody>
 </table>
+
+<table>
+  <thead>
+    <tr>
+    <th>Sass</th>      
+    <th>Tailwind</th>      
+    <th>WP</th>      
+    <th>TON</th>      
+    </tr>
+  </thead>
+  <tbody>
+    <tr>      
+      <td>
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="45" height="45" style="max-width: 100%;">
+        </a>
+      </td>      
+      <td>
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="React" alt="React" width="45" height="45" style="max-width: 100%;">
+        </a>
+      </td>
+      <td>
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="PHP" alt="PHP" width="45" height="45" style="max-width: 100%;">
+        </a>
+      </td>
+      <td>
+        <a target="_blank" rel="noopener noreferrer" href="https://cryptologos.cc/logos/toncoin-ton-logo.png?v=032">
+          <img src="https://cryptologos.cc/logos/toncoin-ton-logo.png?v=032" title="PHP" alt="PHP" width="45" height="45" style="max-width: 100%;">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
