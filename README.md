@@ -98,13 +98,13 @@ Passionate about exploring the TON ecosystem, blockchain technology, mini apps, 
         </a>
       </td>
       <td>
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="PHP" alt="PHP" width="55" height="55" style="max-width: 100%;">
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original.svg">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original.svg" title="JetBrains PhpStorm" alt="JetBrains PhpStorm" width="55" height="55" style="max-width: 100%;">
         </a>
       </td>
       <td>
         <a target="_blank" rel="noopener noreferrer" href="https://cryptologos.cc/logos/toncoin-ton-logo.png?v=032">
-          <img src="https://cryptologos.cc/logos/toncoin-ton-logo.png?v=032" title="PHP" alt="PHP" width="55" height="55" style="max-width: 100%;">
+          <img src="https://cryptologos.cc/logos/toncoin-ton-logo.png?v=032" title="Telegram ecosystem" alt="Telegram ecosystem" width="55" height="55" style="max-width: 100%;">
         </a>
       </td>
     </tr>
