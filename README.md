@@ -47,7 +47,7 @@ Passionate about exploring the TON ecosystem, blockchain technology, mini apps, 
     <th>Vue</th>      
     <th>Nuxt</th>      
     <th>WP</th>      
-    <th>TON</th>      
+    <th>MySql</th>      
     </tr>
   </thead>
   <tbody>
@@ -68,8 +68,8 @@ Passionate about exploring the TON ecosystem, blockchain technology, mini apps, 
         </a>
       </td>
       <td>
-        <a target="_blank" rel="noopener noreferrer" href="https://cryptologos.cc/logos/toncoin-ton-logo.png?v=032">
-          <img src="https://cryptologos.cc/logos/toncoin-ton-logo.png?v=032" title="Telegram ecosystem" alt="Telegram ecosystem" width="45" height="45" style="max-width: 100%;">
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="MySql" alt="MySql" width="45" height="45" style="max-width: 100%;">
         </a>
       </td>
     </tr>
