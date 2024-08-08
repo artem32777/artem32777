@@ -19,22 +19,22 @@ Passionate about exploring the TON ecosystem, blockchain technology, mini apps, 
     <tr>      
       <td>
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-          <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45" style="max-width: 100%;">
+          <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55" style="max-width: 100%;">
         </a>
       </td>      
       <td>
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="45" height="45" style="max-width: 100%;">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="55" height="55" style="max-width: 100%;">
         </a>
       </td>
       <td>
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="45" height="45" style="max-width: 100%;">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="55" height="55" style="max-width: 100%;">
         </a>
       </td>
       <td>
         <a target="_blank" rel="noopener noreferrer" href="https://avatars.githubusercontent.com/u/104382459?s=200&v=4">
-          <img src="https://avatars.githubusercontent.com/u/104382459?s=200&v=4" title="Tact TON smart contracts language" alt="Tact TON smart contracts language" width="45" height="45" style="max-width: 100%;">
+          <img src="https://avatars.githubusercontent.com/u/104382459?s=200&v=4" title="Tact TON smart contracts language" alt="Tact TON smart contracts language" width="55" height="55" style="max-width: 100%;">
         </a>
       </td>
     </tr>
@@ -54,7 +54,7 @@ Passionate about exploring the TON ecosystem, blockchain technology, mini apps, 
     <tr>      
       <td>
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="45" height="45" style="max-width: 100%;">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="55" height="55" style="max-width: 100%;">
         </a>
       </td>      
       <td>
