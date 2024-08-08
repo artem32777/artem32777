@@ -69,7 +69,7 @@ Passionate about exploring the TON ecosystem, blockchain technology, mini apps, 
       </td>
       <td>
         <a target="_blank" rel="noopener noreferrer" href="https://cryptologos.cc/logos/toncoin-ton-logo.png?v=032">
-          <img src="https://cryptologos.cc/logos/toncoin-ton-logo.png?v=032" title="PHP" alt="PHP" width="55" height="55" style="max-width: 100%;">
+          <img src="https://cryptologos.cc/logos/toncoin-ton-logo.png?v=032" title="PHP" alt="PHP" width="45" height="45" style="max-width: 100%;">
         </a>
       </td>
     </tr>
