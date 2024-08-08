@@ -62,8 +62,8 @@ Passionate about exploring the TON ecosystem, blockchain technology, mini apps, 
         </a>
       </td>
       <td>
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress CMS" alt="WordPress CMS" width="55" height="55" style="max-width: 100%;">
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="WordPress CMS" alt="WordPress CMS" width="55" height="55" style="max-width: 100%;">
         </a>
       </td>
       <td>
