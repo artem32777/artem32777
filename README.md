@@ -80,7 +80,7 @@ Passionate about exploring the TON ecosystem, blockchain technology, mini apps, 
   <thead>
     <tr>
     <th>Sass</th>      
-    <th>Tailwind</th>      
+    <th>TW</th>      
     <th>WP</th>      
     <th>TON</th>      
     </tr>
@@ -88,8 +88,8 @@ Passionate about exploring the TON ecosystem, blockchain technology, mini apps, 
   <tbody>
     <tr>      
       <td>
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="45" height="45" style="max-width: 100%;">
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Vue" alt="Vue" width="45" height="45" style="max-width: 100%;">
         </a>
       </td>      
       <td>
