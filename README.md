@@ -47,7 +47,7 @@ Passionate about exploring the TON ecosystem, blockchain technology, mini apps, 
     <th>Vue</th>      
     <th>Nuxt</th>      
     <th>WP</th>      
-    <th>MySql</th>      
+    <th>MySQL</th>      
     </tr>
   </thead>
   <tbody>
@@ -69,7 +69,7 @@ Passionate about exploring the TON ecosystem, blockchain technology, mini apps, 
       </td>
       <td>
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="MySql" alt="MySql" width="45" height="45" style="max-width: 100%;">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="MySQL" alt="MySQL" width="45" height="45" style="max-width: 100%;">
         </a>
       </td>
     </tr>
