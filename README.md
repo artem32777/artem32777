@@ -81,7 +81,7 @@ Passionate about exploring the TON ecosystem, blockchain technology, mini apps, 
     <tr>
     <th>Sass</th>      
     <th>TW</th>      
-    <th>WP</th>      
+    <th>PhpStorm</th>      
     <th>TON</th>      
     </tr>
   </thead>
