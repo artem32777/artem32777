@@ -59,17 +59,17 @@ Passionate about exploring the TON ecosystem, blockchain technology, mini apps, 
       </td>      
       <td>
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="Nuxt" alt="Nuxt" width="45" height="45" style="max-width: 100%;">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="Nuxt" alt="Nuxt" width="55" height="55" style="max-width: 100%;">
         </a>
       </td>
       <td>
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress CMS" alt="WordPress CMS" width="45" height="45" style="max-width: 100%;">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress CMS" alt="WordPress CMS" width="55" height="55" style="max-width: 100%;">
         </a>
       </td>
       <td>
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="MySQL" alt="MySQL" width="45" height="45" style="max-width: 100%;">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55" style="max-width: 100%;">
         </a>
       </td>
     </tr>
@@ -89,22 +89,22 @@ Passionate about exploring the TON ecosystem, blockchain technology, mini apps, 
     <tr>      
       <td>
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="45" height="45" style="max-width: 100%;">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="55" height="55" style="max-width: 100%;">
         </a>
       </td>      
       <td>
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="45" height="45" style="max-width: 100%;">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="55" height="55" style="max-width: 100%;">
         </a>
       </td>
       <td>
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="PHP" alt="PHP" width="45" height="45" style="max-width: 100%;">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="PHP" alt="PHP" width="55" height="55" style="max-width: 100%;">
         </a>
       </td>
       <td>
         <a target="_blank" rel="noopener noreferrer" href="https://cryptologos.cc/logos/toncoin-ton-logo.png?v=032">
-          <img src="https://cryptologos.cc/logos/toncoin-ton-logo.png?v=032" title="PHP" alt="PHP" width="45" height="45" style="max-width: 100%;">
+          <img src="https://cryptologos.cc/logos/toncoin-ton-logo.png?v=032" title="PHP" alt="PHP" width="55" height="55" style="max-width: 100%;">
         </a>
       </td>
     </tr>
