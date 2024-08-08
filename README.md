@@ -45,7 +45,7 @@ Passionate about exploring the TON ecosystem, blockchain technology, mini apps, 
   <thead>
     <tr>
     <th>Vue</th>      
-    <th>React</th>      
+    <th>Nuxt</th>      
     <th>WP</th>      
     <th>TON</th>      
     </tr>
@@ -58,8 +58,8 @@ Passionate about exploring the TON ecosystem, blockchain technology, mini apps, 
         </a>
       </td>      
       <td>
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="55" height="55" style="max-width: 100%;">
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="React" alt="React" width="55" height="55" style="max-width: 100%;">
         </a>
       </td>
       <td>
