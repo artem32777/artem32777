@@ -64,12 +64,12 @@ Passionate about exploring the TON ecosystem, blockchain technology, mini apps, 
       </td>
       <td>
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="PHP" alt="PHP" width="45" height="45" style="max-width: 100%;">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress CMS" alt="WordPress CMS" width="45" height="45" style="max-width: 100%;">
         </a>
       </td>
       <td>
         <a target="_blank" rel="noopener noreferrer" href="https://cryptologos.cc/logos/toncoin-ton-logo.png?v=032">
-          <img src="https://cryptologos.cc/logos/toncoin-ton-logo.png?v=032" title="PHP" alt="PHP" width="45" height="45" style="max-width: 100%;">
+          <img src="https://cryptologos.cc/logos/toncoin-ton-logo.png?v=032" title="Telegram ecosystem" alt="Telegram ecosystem" width="45" height="45" style="max-width: 100%;">
         </a>
       </td>
     </tr>
@@ -89,12 +89,12 @@ Passionate about exploring the TON ecosystem, blockchain technology, mini apps, 
     <tr>      
       <td>
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Vue" alt="Vue" width="45" height="45" style="max-width: 100%;">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="45" height="45" style="max-width: 100%;">
         </a>
       </td>      
       <td>
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="React" alt="React" width="45" height="45" style="max-width: 100%;">
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="45" height="45" style="max-width: 100%;">
         </a>
       </td>
       <td>
