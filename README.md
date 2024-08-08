@@ -12,11 +12,7 @@ Passionate about exploring the TON ecosystem, blockchain technology, mini apps, 
     <th>JS</th>      
     <th>TS</th>      
     <th>PHP</th>      
-    <th>Tact</th>
-    <th>Vue</th>      
-    <th>React</th>      
-    <th>WP</th>      
-    <th>TON</th>    
+    <th>Tact</th>      
     </tr>
   </thead>
   <tbody>
@@ -41,7 +37,22 @@ Passionate about exploring the TON ecosystem, blockchain technology, mini apps, 
           <img src="https://avatars.githubusercontent.com/u/104382459?s=200&v=4" title="PHP" alt="PHP" width="55" height="55" style="max-width: 100%;">
         </a>
       </td>
-            <td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+    <th>Vue</th>      
+    <th>React</th>      
+    <th>WP</th>      
+    <th>TON</th>      
+    </tr>
+  </thead>
+  <tbody>
+    <tr>      
+      <td>
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
           <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="55" height="55" style="max-width: 100%;">
         </a>
