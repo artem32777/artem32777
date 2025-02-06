@@ -46,7 +46,7 @@ Passionate about exploring the TON ecosystem, blockchain technology, mini apps, 
     <th>Vue</th>      
     <th>Nuxt</th>      
     <th>WP</th>      
-    <th>MySQL</th>      
+    <th>LW</th>      
     </tr>
   </thead>
   <tbody>
@@ -67,8 +67,8 @@ Passionate about exploring the TON ecosystem, blockchain technology, mini apps, 
         </a>
       </td>
       <td>
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55" style="max-width: 100%;">
+        <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/laravel/laravel-original.svg">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/laravel/laravel-original.svg" title="Laravel" alt="JetBrains PhpStorm" width="55" height="55" style="max-width: 100%;">
         </a>
       </td>
     </tr>
@@ -80,7 +80,7 @@ Passionate about exploring the TON ecosystem, blockchain technology, mini apps, 
     <tr>
     <th>Sass</th>      
     <th>TW</th>      
-    <th>LW</th>      
+    <th>MySQL</th>      
     <th>TON</th>      
     </tr>
   </thead>
@@ -97,8 +97,8 @@ Passionate about exploring the TON ecosystem, blockchain technology, mini apps, 
         </a>
       </td>
       <td>
-        <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/laravel/laravel-original.svg">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/laravel/laravel-original.svg" title="Laravel" alt="JetBrains PhpStorm" width="55" height="55" style="max-width: 100%;">
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55" style="max-width: 100%;">
         </a>
       </td>
       <td>
