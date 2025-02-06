@@ -80,7 +80,7 @@ Passionate about exploring the TON ecosystem, blockchain technology, mini apps, 
     <tr>
     <th>Sass</th>      
     <th>TW</th>      
-    <th>PS</th>      
+    <th>LW</th>      
     <th>TON</th>      
     </tr>
   </thead>
