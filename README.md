@@ -97,8 +97,8 @@ Passionate about exploring the TON ecosystem, blockchain technology, mini apps, 
         </a>
       </td>
       <td>
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original.svg">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original.svg" title="JetBrains PhpStorm" alt="JetBrains PhpStorm" width="55" height="55" style="max-width: 100%;">
+        <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/laravel/laravel-original.svg">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/laravel/laravel-original.svg" title="Laravel" alt="JetBrains PhpStorm" width="55" height="55" style="max-width: 100%;">
         </a>
       </td>
       <td>
