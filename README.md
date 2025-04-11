@@ -102,8 +102,8 @@ Passionate about exploring the TON ecosystem, blockchain technology, mini apps, 
         </a>
       </td>
       <td>
-        <a target="_blank" rel="noopener noreferrer" href="https://cryptologos.cc/logos/toncoin-ton-logo.png?v=032">
-          <img src="https://cryptologos.cc/logos/toncoin-ton-logo.png?v=032" title="Telegram ecosystem" alt="Telegram ecosystem" width="55" height="55" style="max-width: 100%;">
+        <a target="_blank" rel="noopener noreferrer" href="https://ton.org/icons/custom/ton_logo.svg">
+          <img src="https://ton.org/icons/custom/ton_logo.svg" title="Telegram ecosystem" alt="Telegram ecosystem" width="55" height="55" style="max-width: 100%;">
         </a>
       </td>
     </tr>
