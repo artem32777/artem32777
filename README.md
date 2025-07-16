@@ -51,30 +51,3 @@
     </tr>
   </tbody>
 </table>
-
-<table>
-  <thead>
-    <tr>
-    <th>WP</th>      
-    <th>TW</th>      
-    <th>MySQL</th>      
-    <th>TON</th>      
-    </tr>
-  </thead>
-  <tbody>
-    <tr>      
-      <td>
-          <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="WordPress CMS" alt="WordPress CMS" width="55" height="55" style="max-width: 100%;">
-      </td>      
-      <td>
-          <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="55" height="55" style="max-width: 100%;">
-      </td>
-      <td>
-          <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55" style="max-width: 100%;">
-      </td>
-      <td>
-          <img src="https://ton.org/icons/custom/ton_logo.svg" title="Telegram ecosystem" alt="Telegram ecosystem" width="55" height="55" style="max-width: 100%;">
-      </td>
-    </tr>
-  </tbody>
-</table>
