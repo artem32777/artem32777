@@ -45,7 +45,7 @@ Passionate about exploring the TON ecosystem, blockchain technology, mini apps, 
     <tr>
     <th>Vue</th>      
     <th>Nuxt</th>      
-    <th>WP</th>      
+    <th>Nest</th>      
     <th>LW</th>      
     </tr>
   </thead>
@@ -62,8 +62,8 @@ Passionate about exploring the TON ecosystem, blockchain technology, mini apps, 
         </a>
       </td>
       <td>
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="WordPress CMS" alt="WordPress CMS" width="55" height="55" style="max-width: 100%;">
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="WordPress CMS" alt="WordPress CMS" width="55" height="55" style="max-width: 100%;">
         </a>
       </td>
       <td>
@@ -78,7 +78,7 @@ Passionate about exploring the TON ecosystem, blockchain technology, mini apps, 
 <table>
   <thead>
     <tr>
-    <th>Sass</th>      
+    <th>WP</th>      
     <th>TW</th>      
     <th>MySQL</th>      
     <th>TON</th>      
@@ -87,8 +87,8 @@ Passionate about exploring the TON ecosystem, blockchain technology, mini apps, 
   <tbody>
     <tr>      
       <td>
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="55" height="55" style="max-width: 100%;">
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="WordPress CMS" alt="WordPress CMS" width="55" height="55" style="max-width: 100%;">
         </a>
       </td>      
       <td>
