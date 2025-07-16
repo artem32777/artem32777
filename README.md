@@ -1,10 +1,3 @@
-# About me:
-
-Hey! I'am frontend developer with a focus on building apps & websites.<br>
-Experienced in developing with Vue, Nuxt, Laravel, WordPress.<br>
-Work for a company that develops software to analyze data from Google Search Console.<br>
-Passionate about exploring the TON ecosystem, blockchain technology, mini apps, bots, smart contracts.<br>
-
 <table>
   <thead>
     <tr>
