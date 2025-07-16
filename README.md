@@ -10,8 +10,8 @@ Passionate about exploring the TON ecosystem, blockchain technology, mini apps, 
     <tr>
     <th>JS</th>      
     <th>TS</th>      
+    <th>NodeJs</th>      
     <th>PHP</th>      
-    <th>Tact</th>      
     </tr>
   </thead>
   <tbody>
@@ -27,13 +27,13 @@ Passionate about exploring the TON ecosystem, blockchain technology, mini apps, 
         </a>
       </td>
       <td>
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="55" height="55" style="max-width: 100%;">
+        <a target="_blank" rel="noopener noreferrer" href="https://avatars.githubusercontent.com/u/104382459?s=200&v=4">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="Node JS" alt="Node JS" width="55" height="55" style="max-width: 100%;">
         </a>
       </td>
       <td>
-        <a target="_blank" rel="noopener noreferrer" href="https://avatars.githubusercontent.com/u/104382459?s=200&v=4">
-          <img src="https://avatars.githubusercontent.com/u/104382459?s=200&v=4" title="Tact TON smart contracts language" alt="Tact TON smart contracts language" width="55" height="55" style="max-width: 100%;">
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="55" height="55" style="max-width: 100%;">
         </a>
       </td>
     </tr>
